@@ -19,8 +19,8 @@ This project implements **image compression** using the **Singular Value Decompo
     │   ├── t_R=100.PNG                    # Compressed image with r=100
     │   ├── Toyota_FJ_Cruiser.jpg          # Original image
     │   ├── Toyota_FJ_Cruiser_- Compressed.PNG  # Final compressed version
-    │   ├── requirements.txt               # Dependencies for running the project
-    ├── README.md                           # Project documentation
+    │   ├── requirements.txt              
+    ├── README.md                           
 
 ## 🚀 Installation & Usage
 

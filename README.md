@@ -10,7 +10,7 @@ This project implements **image compression** using the **Singular Value Decompo
 - **Visualization**: Displays original and compressed images side by side.
 
 ## 📂 Project Structure
-
+ 
     SVD_ImageCompression/
     ├── Compression Project/
     │   ├── compression.py                 # Python script for performing SVD compression
